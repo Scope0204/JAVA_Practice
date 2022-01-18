@@ -1,8 +1,0 @@
-public class MyMathTest2 {
-
-	public static void main(String[] args) {
-		// 클래스 메서드 호출, 인스턴스 생성없이 호출 가능
-		System.out.println(Mymath2.add(200L,100L));
-	}
-
-}
